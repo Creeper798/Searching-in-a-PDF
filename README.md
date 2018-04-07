@@ -36,6 +36,8 @@ Known Bugs:
 
 To Do List:
 
+ - [] Make program compatible with accepting PDF URLs.
+
  - [DONE] Fix the one word per page bug
 
  - [DONE] Maybe have it ask what the title of the PDF is instead of having it set to 451 by default. (Simple fix, but not needed??)
